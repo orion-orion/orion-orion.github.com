@@ -7,18 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 猎户座
+    tagline: student major in machine learning
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: orion-orion@foxmail.com
     phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    citizenship: Sichuan Chengdu
+    website: https://www.cnblogs.com/orion-orion/ #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: https://github.com/orion-orion
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -59,8 +59,8 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: SWPU
+      time: 2018 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,17 +69,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
