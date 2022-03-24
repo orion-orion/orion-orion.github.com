@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: orion-orion@foxmail.com
-    phone: 012 345 6789
+    # phone: 012 345 6789
     citizenship: Sichuan Chengdu
-    website: https://www.cnblogs.com/orion-orion/ #do not add http://
+    website: cnblogs.com/orion-orion/ #do not add http://
     linkedin: alandoe
     xing: alandoe
     github: https://github.com/orion-orion
@@ -58,7 +58,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
+    - degree: BSc in Computer Science
       university: SWPU
       time: 2018 - 2022
       details: |
