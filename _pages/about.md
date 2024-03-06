@@ -27,7 +27,9 @@ redirect_from:
 
 # Manuscripts and Publications
 
-* <b>Zhang H</b>, Zheng D, Yang X, et al. FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning[J]. <i>SIAM International Conference on Data Mining</i>, 2024. [[paper]](https://arxiv.org/pdf/2309.08420.pdf) [[code]](https://github.com/orion-orion/FedDCSR)
+* <b>Zhang H</b>, Zheng D, Yang X, et al. FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning[C]. <i>accepted by SIAM International Conference on Data Mining</i>, 2024. [[paper]](https://arxiv.org/pdf/2309.08420.pdf) [[code]](https://github.com/orion-orion/FedDCSR)
+
+* <b>Zhang H</b>, Zheng D, Zhong L, et al. FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling[C]. <i>submitted to ECML-PKDD</i>, 2024. [[paper]](https://arxiv.org/pdf/2403.02630.pdf) [[code]](https://github.com/orion-orion/FedHCDR)
 
 # Software or Toolkit
 
