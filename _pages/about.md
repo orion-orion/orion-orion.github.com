@@ -16,6 +16,8 @@ redirect_from:
 
 * I am currently a graduate student with the [Computer Application Research Center (CARC)](http://carc.hitsz.edu.cn/index.htm) at [School of Computer Science and Technology](http://cs.hitsz.edu.cn/index.htm), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by Prof. [Qing Liao](http://liaoqing.hitsz.edu.cn/).
 
+* I have been working as an algorithm intern at [Tencent](https://www.tencent.com/en-us/about.html) since April, mainly responsible for QQ short video recommendation in the [PCG](https://arc.tencent.com/en/research) department. 
+
 * My research interests lie in the general area of federated learning and recommendation system, particularly in federated domain adaptation/domain generalization, cross-domain recommendation, and GNN-based recommendation. 
 
 *  I  received my Bachelor’s Degree in Computer Science and Technology, at [School of Computer Science](https://www.swpu.edu.cn/scs/), [SWPU](https://www.swpu.edu.cn/) in 2022.
