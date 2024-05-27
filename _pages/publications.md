@@ -7,8 +7,8 @@ author_profile: true
 
 <b>[FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning](https://arxiv.org/pdf/2309.08420.pdf)</b> <br> 
 <b>Hongyu Zhang</b>, Dongyi Zheng, Xu Yang, Jiyuan Feng, Q Liao<br>
-<i>accepted by SIAM International Conference on Data Mining, 2024</i>.
+<i>SIAM International Conference on Data Mining, 2024</i>.
 
 <b>[FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling](https://arxiv.org/pdf/2403.02630.pdf)</b> <br> 
 <b>Hongyu Zhang</b>, Dongyi Zheng, Lin Zhong, Xu Yang, Jiyuan Feng, Yunqing Feng, Q Liao<br>
-<i>submitted to ECML-PKDD, 2024</i>.
+<i>ECML-PKDD, 2024</i>.
