@@ -27,6 +27,10 @@ redirect_from:
 * Federated Learning
 * Recommendation System
 
+# Work experience
+
+* <b>Algorithm Intern</b> (2024.04-), Tencent, PCG Department, QQ short video recommendation. I'm mainly responsible for the multi-objective fusion (MTF) of precision ranking scores based on implicit Q-learning (IQL) reinforcement learning algorithm.
+
 # Manuscripts and Publications
 
 * <b>Zhang H</b>, Zheng D, Yang X, et al. FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning[C]. <i>SIAM International Conference on Data Mining</i>, 2024. [[paper]](https://arxiv.org/pdf/2309.08420.pdf) [[code]](https://github.com/orion-orion/FedDCSR)
