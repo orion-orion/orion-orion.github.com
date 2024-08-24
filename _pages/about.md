@@ -16,7 +16,7 @@ redirect_from:
 
 * I am currently a graduate student with the [Computer Application Research Center (CARC)](http://carc.hitsz.edu.cn/index.htm) at [School of Computer Science and Technology](http://cs.hitsz.edu.cn/index.htm), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by Prof. [Qing Liao](http://liaoqing.hitsz.edu.cn/).
 
-* I'm now working as an algorithm intern at [Tencent](https://www.tencent.com/en-us/about.html), in charge of QQ short video recommendation in the [PCG](https://arc.tencent.com/en/research) department. 
+* I am currently preparing for my PhD application... (Destination: Japan)
 
 * My research interests lie in the general area of federated learning and recommendation system, particularly in federated domain adaptation/domain generalization, cross-domain recommendation, and GNN-based recommendation. 
 
@@ -29,7 +29,7 @@ redirect_from:
 
 # Work experience
 
-* <b>Algorithm Intern</b> (2024.04-), Tencent, PCG Department, QQ short video recommendation. I'm mainly responsible for the multi-objective fusion (MTF) of precision ranking scores based on implicit Q-learning (IQL) reinforcement learning algorithm.
+* <b>Algorithm Intern</b> (2024.04-2024.07), Tencent, PCG Department, QQ short video recommendation. I'm mainly responsible for the multi-objective fusion (MTF) of precision ranking scores based on implicit Q-learning (IQL) reinforcement learning algorithm.
 
 # Manuscripts and Publications
 
