@@ -37,6 +37,8 @@ redirect_from:
 
 * <b>Zhang H</b>, Zheng D, Zhong L, et al. FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling[C]. <i>ECML-PKDD</i>, 2024. [[paper]](https://arxiv.org/pdf/2403.02630.pdf) [[code]](https://github.com/orion-orion/FedHCDR)
 
+* Zheng D, <b>Zhang H</b>, Zhai J, et al. FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning[C]. <i>COLING</i>, 2025. [[paper]](https://aclanthology.org/2025.coling-main.581.pdf) [[code]](https://github.com/zdy769243418/FedCSR-v1)
+
 # Software or Toolkit
 
 * <b>[FedCom](https://github.com/orion-orion/FedCom)</b>: A new method of multi-task clustered federated learning. In this method, we perform dynamic partition of clusters based on community detection, which can alleviate the negative impact caused by the early-stage partition errors.
