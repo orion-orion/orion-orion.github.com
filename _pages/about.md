@@ -14,18 +14,19 @@ redirect_from:
 
 # About Me
 
-* I am currently a graduate student with the [Computer Application Research Center (CARC)](http://carc.hitsz.edu.cn/index.htm) at [School of Computer Science and Technology](http://cs.hitsz.edu.cn/index.htm), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by Prof. [Qing Liao](http://liaoqing.hitsz.edu.cn/).
+* I will start my doctoral research with the [Statistics and Machine Learning Laboratory](https://stat.sys.i.kyoto-u.ac.jp/shimolab/) at [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), supervised by Prof. [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html).
 
-* I am currently preparing for my PhD application... (Destination: Japan)
+* My current research interests are mainly in learning theory and online optimization.
 
-* My research interests lie in the general area of federated learning and recommendation system, particularly in federated domain adaptation/domain generalization, cross-domain recommendation, and GNN-based recommendation. 
+*  I  received my Master’s Degree in Computer Technology, at [School of Computer Science and Technology](http://cs.hitsz.edu.cn/index.htm), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), supervised by Prof. [Qing Liao](http://liaoqing.hitsz.edu.cn/).
 
 *  I  received my Bachelor’s Degree in Computer Science and Technology, at [School of Computer Science](https://www.swpu.edu.cn/scs/), [SWPU](https://www.swpu.edu.cn/) in 2022.
 
 # Research Area
 
-* Federated Learning
-* Recommendation System
+* Learning Theory
+* Online Optimization
+* Data Mining
 
 # Work experience
 
