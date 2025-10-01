@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 
-* I will start my doctoral research with the [Statistics and Machine Learning Laboratory](https://stat.sys.i.kyoto-u.ac.jp/shimolab/) at [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), supervised by Prof. [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index_e.html).
+* I am conducting my doctoral research with the [Statistics and Machine Learning Laboratory](https://stat.sys.i.kyoto-u.ac.jp/shimolab/) at [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), supervised by Prof. [Junya Honda](https://stat.sys.i.kyoto-u.ac.jp/honda/index.html).
 
 * My current research interests are mainly in learning theory and online optimization.
 
